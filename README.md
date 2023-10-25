@@ -12,5 +12,6 @@
 
 用户界面如下：
 
-![image](https://github.com/Seymour2000/SYW_estimate/assets/86549673/08214eed-ddde-4b5b-8915-31d59c84777e)
+![image](https://github.com/Seymour2000/SYW_estimate/assets/86549673/8f73073c-de6e-457b-88d6-6f1cc2093b35)
+
 
